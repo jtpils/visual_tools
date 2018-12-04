@@ -17,6 +17,8 @@ vispy 和　pyqt4的可视化
 ### video
 将图片制作成视屏，应用于opencv 2和opencv 3
 
+### torch 可视化modules
+tensorboardX hiddenlayer
 
 ## 11.30
 这是一个数据可视化的例子，如果需要用可以直接调用
